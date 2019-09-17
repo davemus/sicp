@@ -64,8 +64,7 @@
    )
   )
 
-(paint cross)
-(paint outline)
-(paint diamond)
+;(paint cross)
+;(paint outline)
+;(paint diamond)
 (paint wave)
-
